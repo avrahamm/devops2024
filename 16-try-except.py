@@ -5,4 +5,4 @@ while True:
         print(f"num1 / num2 = {int(num1 / num2)}")
         break
     except:
-        print("Failed")
+        print("Failed OW")
