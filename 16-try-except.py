@@ -4,5 +4,5 @@ while True:
         num2 = int(input("Enter num2: "))
         print(f"num1 / num2 = {int(num1 / num2)}")
         break
-    except:
+    except Exception as e:
         print("Failed OW master")
